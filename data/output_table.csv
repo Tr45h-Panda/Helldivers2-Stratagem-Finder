@@ -1,0 +1,80 @@
+id,name,sequence,image
+1,Reinforce,UDRLU,reinforce.svg
+2,Resupply,DDUR,resupply.svg
+3,SOS Beacon,UDRU,sos beacon.svg
+4,SEAF Artillery,RUUD,seaf artillery.svg
+5,Hellbomb,DULDURDU,hellbomb.svg
+6,Prospecting Drill,DDLRDD,prospecting drill.svg
+7,Seismic Probe,UULRDD,seismic probe.svg
+8,Super Earth Flag,DUDU,super earth flag.svg
+9,Upload Data,LRUUU,upload data.svg
+10,Machine Gun,DLDUR,machine gun.svg
+11,Anti-Materiel Rifle,DLRUD,anti-materiel rifle.svg
+12,Stalwart,DLDUUL,stalwart.svg
+13,Expendable Anti-Tank,DDLUR,expendable anti-tank.svg
+14,Recoilless Rifle,DLRRL,recoilless rifle.svg
+15,Flamethrower,DLUDU,flamethrower.svg
+16,Autocannon,DLDUUR,autocannon.svg
+17,Railgun,DRDULR,railgun.svg
+18,Spear,DDUDD,spear.svg
+19,Quasar Canon LAS-99,DDULR,quasar cannon.svg
+20,Airburst Rocket Launcher,DUULR,airburst rocket launcher.svg
+21,Orbital Gatling Barrage,RDLUU,orbital gatling barrage.svg
+22,Orbital Airburst Strike,RRR,orbital airburst strike.svg
+23,Orbital 120MM HE Barrage,RRDLRD,orbital 120mm he barrage.svg
+24,Orbital 380MM HE Barrage,RDUULDD,orbital 380mm he barrage.svg
+25,Orbital Walking Barrage,RDRDRD,orbital walking barrage.svg
+26,Orbital Laser,RDURD,orbital laser.svg
+27,Orbital Railcannon Strike,RUDDR,orbital railcannon strike.svg
+28,Eagle Strafing Run,URR,eagle strafing run.svg
+29,Eagle Airstrike,URDR,eagle airstrike.svg
+30,Eagle Cluster Bomb,URDDR,eagle cluster bomb.svg
+31,Eagle Napalm Airstrike,URDU,eagle napalm airstrike.svg
+32,Jump Pack,DUUDU,jump pack.svg
+33,Eagle Smoke Strike,URUD,eagle smoke strike.svg
+34,Eagle 110MM Rocket Pods,URUL,eagle 110mm rocket pods.svg
+35,Eagle 500KG Bomb,URDDD,eagle 500kg bomb.svg
+36,Eagle Rearm,UULUR,eagle rearm.svg
+37,Orbital Precision Strike,RRU,orbital precision strike.svg
+38,Orbital Gas Strike,RRDR,orbital gas strike.svg
+39,Orbital EMS Strike,RRLD,orbital ems strike.svg
+40,Orbital Smoke Strike,RRDU,orbital smoke strike.svg
+41,HMG Emplacement,DULRRL,hmg emplacement.svg
+42,Shield Generator Pack,DULRLR,shield generator pack.svg
+43,Tesla Tower,DURULR,tesla tower.svg
+44,Anti-Personnel Minefield,DLUR,anti-personnel minefield.svg
+45,Supply Pack,DLDUUD,supply pack.svg
+46,Grenade Launcher,DLULD,grenade launcher.svg
+47,Laser Cannon,DLDUL,laser cannon.svg
+48,Incendiary Mines,DLLD,incendiary mines.svg
+49,Guard Dog Rover,DULURR,guard dog rover.svg
+50,Ballistic Shield Backpack,DLDDUL,ballistic shield backpack.svg
+51,Arc Thrower,DRDULL,arc thrower.svg
+52,Shield Generator Relay,DDLRLR,shield generator relay.svg
+53,Heavy Machine Gun MG-101,DLUDD,heavy machine gun.svg
+54,Machine Gun Sentry,DURRU,machine gun sentry.svg
+55,Gatling Sentry,DURL,gatling sentry.svg
+56,Mortar Sentry,DURRD,mortar sentry.svg
+57,Guard Dog,DULURD,guard dog.svg
+58,Autocannon Sentry,DURULU,autocannon sentry.svg
+59,Rocket Sentry,DURRL,rocket sentry.svg
+60,EMS Mortar Sentry,DURDR,ems mortar sentry.svg
+61,Patriot Exosuit,LDRULDD,patriot exosuit.svg
+62,Commando,DLUDR,commando.svg
+63,Dark Fluid Vessel,ULRDUU,dark fluid vessel.svg
+64,Emancipator Exosuit,LDRULDU,emancipator exosuit.svg
+65,Hive Breaker Drill,LUDRDD,hive breaker drill.svg
+66,Tectonic Drill,UDUDUD,tectonic drill.svg
+67,Anti-Materiel Rifle,DLRUD,Anti-Materiel Rifle.svg
+68,Anti-Personnel Minefield,DLUR,Anti-Personnel Minefield.svg
+69,Anti-Tank Emplacement,DULRRR,Anti-Tank Emplacement.svg
+70,Anti-Tank Mines,DLUU,Anti-Tank Mines.svg
+71,Directional Shield,DULRUU,Directional Shield.svg
+72,Fast Recon Vehicle,LDRDRDU,Fast Recon Vehicle.svg
+73,Flame Sentry,DURDUU,Flame Sentry.svg
+74,Gas Mine,DLLR,Gas Mine.svg
+75,Guard Dog Breath,DULURU,Guard Dog Breath.svg
+76,Orbital Illumination Flare,RRLL,Orbital Illumination Flare.svg
+77,Orbital Napalm Barrage,RRDLRU,Orbital Napalm Barrage.svg
+78,StA-X3 W.A.S.P. Launcher,DDUDR,StA-X3 W.A.S.P. Launcher.svg
+79,Sterilizer,DLUDL,Sterilizer.svg
