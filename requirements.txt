@@ -1,0 +1,5 @@
+pyautogui
+Pillow
+pytesseract
+keyboard
+screeninfo
